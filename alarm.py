@@ -1,4 +1,3 @@
-@@ -0,0 +1,11 @@
 timenow = int(input("what is the time now? "))
 hourswait = int(input("how many hours should we wait?"))
 
